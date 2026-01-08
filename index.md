@@ -6,6 +6,6 @@ The Great Pyramid builders will accumulate $PYRAMID tokens just as they would st
 * **The Rewards Pool:** The remaining 39% of the creator allocation will be used for weekly rewards distributed to $PYRAMID holders.
 * **Rewards Distribution:** The amount of $PYRAMID distributed will be proportional to the relative size of each $PYRAMID position. Rewards will begin once Phase 1 of the token distribution is complete (250M tokens sold) to allow builders sufficient time to accumulate their $PYRAMID.
 
-**Contact:** mailto:thegreatpyramid2026@proton.me
+**Contact:** thegreatpyramid2026@proton.me
 
-**CA:** 0x12345...
+**CA:** 0x41430695E59A40226870CB72B2Bb2FC249A70988
