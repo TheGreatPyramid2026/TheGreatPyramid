@@ -9,3 +9,5 @@ The Great Pyramid builders will accumulate $PYRAMID tokens just as they would st
 **Contact:** thegreatpyramid2026@proton.me
 
 **CA:** 0x41430695E59A40226870CB72B2Bb2FC249A70988
+
+https://www.geckoterminal.com/eth/pools/0xb5d7aea71209964fb0b2f93b3173f73469e28d5964e3835c6f0284249e9c7546
